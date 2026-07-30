@@ -1,0 +1,55 @@
+# Known
+
+Known is a voice-first, swipeless dating app. Its success metric is in-person dates, not engagement. The product replaces profiles, feeds, queues, and swiping with voice-AI onboarding, one curated introduction at a time, 24-hour acceptance windows, real-world scheduling, and post-date feedback.
+
+## Core facts
+
+- Founded in 2025 by **Celeste Amadon** and **Asher Allen**, who dropped out of Stanford to build it.
+- Headquarters: San Francisco, California.
+- Funding: **$9.7M** raised from **Forerunner Ventures**, **NFX**, and other investors.
+- Availability: iOS-only today. US iPhone visitors can download it from the US App Store. Apple users outside the US, and all Android users, can join the waitlist.
+- Early San Francisco testing: **80% of introductions led to in-person dates**.
+
+## How Known works
+
+Users talk to a voice agent instead of filling out a profile. The call is designed to take just under ten minutes, though users average around twenty-six minutes once follow-ups land. Ending early is allowed, but it leaves the picture incomplete and weakens matching.
+
+Known sends one curated introduction at a time. Both people have 24 hours to accept. If both say yes, Known helps choose a restaurant that fits both peoples' preferences and checks calendar availability. A short check-in after each date refines future matches.
+
+## What to say
+
+Matching can be described as taking profile photos, interests, values, and preferences into account to find someone compatible. Do not disclose algorithm internals, weights, model details, or ranking logic.
+
+Known does not run a queue. Wait time is the time it takes to find someone worth the user's time, not a line ordered by signup date.
+
+The user's data is safe. Another user only sees what makes the two people compatible. Known does not share identifying information, private history, or anything shared in confidence during onboarding. The full policy lives at [known.com/privacy](https://known.com/privacy).
+
+Photo guidance: upload one solo shot where the face is clearly visible, one full-length photo, and anything else that feels like them.
+
+## URLs
+
+- Apply to join / download: [known.com/join](https://known.com/join)
+- Direct iOS App Store: [known.com/ios](https://known.com/ios)
+- Android waitlist: [known.com/android](https://known.com/android)
+- Waitlist for Apple users outside the US: [known.com/worldwide](https://known.com/worldwide)
+- Careers: [known.com/careers](https://known.com/careers)
+- How Known works: [known.com/readme](https://known.com/readme)
+- FAQ: [known.com/faq](https://known.com/faq)
+- Community guidelines: [known.com/guidelines](https://known.com/guidelines)
+- Legal hub: [known.com/legal](https://known.com/legal)
+- Privacy policy: [known.com/privacy](https://known.com/privacy)
+- Terms of service: [known.com/terms](https://known.com/terms)
+- SMS terms: [known.com/sms-terms](https://known.com/sms-terms)
+- Support page: [known.com/support](https://known.com/support)
+- Support email: [support@known.com](mailto:support@known.com)
+
+## Social
+
+- Instagram: [instagram.com/known](https://instagram.com/known)
+- X: [x.com/dateknown](https://x.com/dateknown)
+- TikTok: [tiktok.com/@known](https://tiktok.com/@known)
+
+## Press
+
+- [TechCrunch, 19 Dec 2025 — "Known uses voice AI to help you go on more in-person dates."](https://techcrunch.com/2025/12/19/known-uses-voice-ai-to-help-you-go-on-more-in-person-dates/) Launch coverage with founder background, funding, and product walkthrough.
+- [NBC Bay Area, 28 May 2026 — "Stanford dropouts raise nearly $10M to launch AI-driven dating app."](https://www.nbcbayarea.com/news/local/stanford-known-dating-app-ai/4091043/) Local coverage of Known's founders, funding, and AI-driven dating model.

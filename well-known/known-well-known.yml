@@ -1,0 +1,30 @@
+generated: '2026-07-19'
+method: searched
+source: https://known.com/.well-known/
+host: https://known.com
+notes: >-
+  Probed the standard /.well-known/ discovery surface on the only host Known
+  operates (known.com). Every document returned 404 — Known publishes no
+  security.txt, no OIDC/OAuth discovery, no api-catalog and no ai-plugin
+  manifest. Recorded as an honest negative result so re-runs do not re-probe.
+  Known does, however, publish a first-party /llms.txt (captured verbatim at
+  llms/known-llms.txt) and a /robots.txt with a sitemap pointer.
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+other:
+- path: /llms.txt
+  status: 200
+  file: ../llms/known-llms.txt
+- path: /robots.txt
+  status: 200
+- path: /sitemap.xml
+  status: 200
