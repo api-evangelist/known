@@ -10,6 +10,17 @@ description: 'Known is a voice-first, swipeless dating application founded in 20
   iOS-only in the United States today, with waitlists for Android and for Apple users outside the US.
   Known publishes no public developer program, API, or SDKs; it does publish a first-party llms.txt
   describing the product for AI agents.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: approval
